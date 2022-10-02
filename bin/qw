@@ -1,0 +1,8 @@
+#! /bin/bash
+
+SCRIPT_DIR="$(dirname $0)"
+
+LIB_DIR="${SCRIPT_DIR}/../lib"
+
+node "${LIB_DIR}/main.js" "$@"
+
