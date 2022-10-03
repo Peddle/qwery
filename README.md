@@ -1,6 +1,10 @@
 # qwery
 GPT-3 powered cli tool to help with bash commands you can't remember
 
+
+https://user-images.githubusercontent.com/8838388/193482761-f1de06f6-635d-4bb1-b6fd-a8e8a4cb8980.mov
+
+
 eg
 ```bash
 $ qw ffmpeg command to transcode mp4 to mov
